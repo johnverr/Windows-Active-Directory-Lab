@@ -1,0 +1,25 @@
+# Ignore ISO images
+*.iso
+
+# Ignore VirtualBox disk images
+*.vdi
+*.vmdk
+
+# Ignore VirtualBox machine settings
+*.vbox
+*.vbox-prev
+
+# Ignore all log files with extensions like .log, .log.1, .log.2
+*.log*
+
+# Ignore temporary files
+*.tmp
+
+# Ignore executables
+*.exe
+
+# Ignore Snapshots files
+*.sav
+
+# Ignore NVRAM files
+*.nvram
