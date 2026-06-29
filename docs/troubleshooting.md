@@ -1,4 +1,30 @@
 # Troubleshooting
+Issue
+
+No POST for Windows 11 VM
+
+Cause
+
+Possible UEFI incompatibility
+
+Resolution
+
+Switch to BIOS
+
+------------------------------------------------
+Issue
+
+Windows 11 VM does not meet minimum system requirements
+
+Cause
+
+Only booting BIOS configuration do not meet sysreqs
+
+Resolution
+
+Bypass via regedit (Full steps in virtualbox-settings.md)
+
+------------------------------------------------
 
 Issue
 
